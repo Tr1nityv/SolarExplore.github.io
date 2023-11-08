@@ -1,1 +1,1 @@
-# SolarExplore.github.io
+# TheSolarExplorer.github.io
